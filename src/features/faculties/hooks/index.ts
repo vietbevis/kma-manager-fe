@@ -1,0 +1,1 @@
+export { useFaculties } from './useFaculties'
