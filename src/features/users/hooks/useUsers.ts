@@ -99,7 +99,8 @@ export const useUsers = () => {
           department: item.department,
           position: item.position,
           createdAt: item.createdAt,
-          updatedAt: item.updatedAt
+          updatedAt: item.updatedAt,
+          taxExemption: item.taxExemption
         })
       )
     )
